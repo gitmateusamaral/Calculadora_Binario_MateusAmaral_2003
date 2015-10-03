@@ -43,3 +43,6 @@ C:\Users\amaral\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\
 C:\Users\amaral\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\amaral\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\amaral\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\amaral\Documents\GitHub\Calculadora_Binario_MateusAmaral_2003\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\amaral\Documents\GitHub\Calculadora_Binario_MateusAmaral_2003\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\amaral\Documents\GitHub\Calculadora_Binario_MateusAmaral_2003\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
